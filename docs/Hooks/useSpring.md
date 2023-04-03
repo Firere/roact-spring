@@ -94,6 +94,6 @@ end
 
 ### Draggable element
 
-<a href="https://github.com/chriscerie/roact-spring/blob/main/stories/hooks/useSpringDrag.story.lua">
+<a href="https://github.com/Firere/roact-spring/blob/main/stories/hooks/useSpringDrag.story.lua">
   <img src="https://media.giphy.com/media/R2bJ57MNTdP7vmP6Ez/giphy.gif" width="400" />
 </a>

@@ -16,20 +16,21 @@ This library represents a modern approach to animation. It is the perfect bridge
 
 #### With Roact17
 ```console
-RoactSpring = "chriscerie/react-spring@<version>"
+RoactSpring = "firere/react-spring@<version>"
 ```
 
 #### With legacy Roact
 ```console
-RoactSpring = "chriscerie/roact-spring@<version>"
+RoactSpring = "firere/roact-spring@<version>"
 ```
 
 ### roblox-ts
 
-`roact-spring` is also available for roblox-ts projects. Install it with [npm](https://www.npmjs.com/package/@rbxts/roact-spring):
+`roact-spring` is also available for roblox-ts projects. Install it with [npm](https://www.npmjs.com/package/@firere/roact-spring):
 ```console
 npm i @rbxts/roact-spring
 ```
+This version only supports [my version of Roact](https://github.com/Firere/rbxts-roact) when used in roblox-ts projects. To use regular `roact-spring`, head [here](https://github.com/chriscerie/roact-spring).
 
 ## Why springs and not durations
 

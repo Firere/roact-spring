@@ -1,5 +1,5 @@
-import { Binding } from '@rbxts/roact';
-import { CoreHooks } from '@rbxts/roact-hooks';
+import { Binding } from '@firere/roact';
+import { CoreHooks } from '@firere/roact-hooks';
 import { ControllerApi, ControllerProps } from '../Controller';
 import { AnimationStyle } from '../types/common';
 

@@ -1,4 +1,4 @@
-gitRepoUrl = "https://github.com/chriscerie/roact-spring"
+gitRepoUrl = "https://github.com/Firere/roact-spring"
 
 [docusaurus]
 tagline = "A spring-physics based animation library for Roact"
@@ -54,4 +54,4 @@ title = "More"
 
 [[footer.links.items]]
 label = "License"
-href = "https://github.com/chriscerie/roact-spring/blob/main/LICENSE"
+href = "https://github.com/Firere/roact-spring/blob/main/LICENSE"

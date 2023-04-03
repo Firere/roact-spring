@@ -1,4 +1,4 @@
-import { Binding } from '@rbxts/roact';
+import { Binding } from '@firere/roact';
 import { AnimationProps, AnimationStyle, SharedAnimationProps } from './types/common';
 
 export type ControllerProps<T extends AnimationStyle> = (AnimationProps<T> | T) & SharedAnimationProps;

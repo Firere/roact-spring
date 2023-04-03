@@ -99,18 +99,18 @@ end)
 
 ### Staggered list
 
-<a href="https://github.com/chriscerie/roact-spring/blob/main/stories/hooks/useTrailList.story.lua">
+<a href="https://github.com/Firere/roact-spring/blob/main/stories/hooks/useTrailList.story.lua">
   <img src="https://media.giphy.com/media/XfG0GNKGCKang91lLN/giphy.gif" width="400" />
 </a>
 
 ### Staggered text
 
-<a href="https://github.com/chriscerie/roact-spring/blob/main/stories/hooks/useTrailText.story.lua">
+<a href="https://github.com/Firere/roact-spring/blob/main/stories/hooks/useTrailText.story.lua">
   <img src="https://media.giphy.com/media/9llkynmhlsUvZCupPz/giphy.gif" width="300" />
 </a>
 
 ### Trailing elements
 
-<a href="https://github.com/chriscerie/roact-spring/blob/main/stories/hooks/useTrailFollow.story.lua">
+<a href="https://github.com/Firere/roact-spring/blob/main/stories/hooks/useTrailFollow.story.lua">
   <img src="https://media.giphy.com/media/BS20XRr522AJgkCyZR/giphy.gif" width="400" />
 </a>

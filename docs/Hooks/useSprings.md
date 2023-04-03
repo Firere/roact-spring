@@ -76,6 +76,6 @@ All properties documented in the [common props](/docs/common/props) apply.
 
 ### Draggable list
 
-<a href="https://github.com/chriscerie/roact-spring/blob/main/stories/hooks/useSpringsList.story.lua">
+<a href="https://github.com/Firere/roact-spring/blob/main/stories/hooks/useSpringsList.story.lua">
   <img src="https://media.giphy.com/media/4qOEZ93YjhfKtSlx7b/giphy.gif" width="400" />
 </a>

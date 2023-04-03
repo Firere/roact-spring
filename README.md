@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/chriscerie/roact-spring/actions/workflows/docs.yml">
-    <img src="https://github.com/chriscerie/roact-spring/workflows/docs/badge.svg" alt="Deploy Docs Status"/>
+  <a href="https://github.com/Firere/roact-spring/actions/workflows/docs.yml">
+    <img src="https://github.com/Firere/roact-spring/workflows/docs/badge.svg" alt="Deploy Docs Status"/>
   </a>
   <a href="https://badge.fury.io/js/@rbxts%2Froact-spring">
     <img src="https://badge.fury.io/js/@rbxts%2Froact-spring.svg" alt="npm version" height="18">
@@ -35,14 +35,15 @@
 
 ### Wally
 
-Add the latest version of roact-spring to your wally.toml (e.g., `RoactSpring = "chriscerie/roact-spring@^0.0"`)
+Add the latest version of roact-spring to your wally.toml (e.g., `RoactSpring = "firere/roact-spring@^0.0"`)
 
 ### roblox-ts
 
-`roact-spring` is also available for roblox-ts projects. Install it with [npm](https://www.npmjs.com/package/@rbxts/roact-spring):
+`roact-spring` is also available for roblox-ts projects. Install it with [npm](https://www.npmjs.com/package/@firere/roact-spring):
 ```console
-npm i @rbxts/roact-spring
+npm i @firere/roact-spring
 ```
+This version only supports [my version of Roact](https://github.com/Firere/rbxts-roact) when used in roblox-ts projects. To use regular `roact-spring`, head [here](https://github.com/chriscerie/roact-spring).
 
 ## Getting Started
 
