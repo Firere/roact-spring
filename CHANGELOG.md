@@ -3,6 +3,9 @@
 ## Unreleased
 * Fixed luau typings ([@chriscerie](https://github.com/chriscerie) in [#42](https://github.com/chriscerie/roact-spring/pull/42))
 
+## 1.1.3-ts.1 (Apr 13, 2023)
+* Fixed `isRoact17` pointing to one too many `Parents`
+
 ## 1.1.3 (Jan 20, 2023)
 * Fixed roblox-ts typings ([Xuleos](https://github.com/Xuleos) in [#29](https://github.com/chriscerie/roact-spring/pull/29))
 * Fixed roblox-ts false positives when running plugins on roblox-ts games ([sasial-dev](https://github.com/sasial-dev) in [#40](https://github.com/chriscerie/roact-spring/pull/40))
